@@ -1,0 +1,42 @@
+{
+  "name": "grunt-typings",
+  "description": "A Grunt plugin for typings",
+  "version": "0.1.0",
+  "homepage": "https://github.com/sebastianhaas/grunt-typings",
+  "author": {
+    "name": "Sebastian Haas",
+    "email": "sebastian@haas.tech",
+    "url": "http://www.sebastianhaas.at"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sebastianhaas/grunt-typings.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sebastianhaas/grunt-typings/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/sebastianhaas/grunt-typings/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "typings": "^0.6.6"
+  }
+}
