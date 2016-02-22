@@ -23,13 +23,8 @@ In your project's Gruntfile, add a section named `typings` to the data object pa
 ```js
 grunt.initConfig({
   typings: {
-    options: {
-      // Task-specific options go here.
-    },
-    your_target: {
-      // Target-specific file lists and/or options go here.
-    },
-  },
+    install: {}
+  }
 });
 ```
 
