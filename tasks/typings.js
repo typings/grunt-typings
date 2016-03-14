@@ -19,7 +19,7 @@ module.exports = function(grunt) {
       cwd: process.cwd()
     });
 
-    var typings = require('typings');
+    var typings = require('typings-core');
     
     var done = this.async();
     
