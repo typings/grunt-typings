@@ -1,7 +1,7 @@
 {
   "name": "grunt-typings",
   "description": "A Grunt plugin for typings",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "homepage": "https://github.com/typings/grunt-typings",
   "author": {
     "name": "Sebastian Haas",
