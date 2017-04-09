@@ -29,6 +29,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "typings-core": "^2.3.2"
+    "typings-core": "^2.3.3"
   }
 }
